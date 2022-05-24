@@ -1,6 +1,7 @@
 # Savotta FDF-10 JSP
 
-I have always wanted a Savotta tent of my own. Is it justified to buy one for a summers known usage?
+I have always wanted a Savotta tent of my own.
+How much it has had costs in comparision to a night in a hotel?
 
 ## The build 
 
@@ -9,14 +10,15 @@ I have always wanted a Savotta tent of my own. Is it justified to buy one for a 
 | 8.5.2022 | FDF-10 JSP      | 1990,00   |
 | 8.5.2022 | JSP Ground tarp | 249,00    |
 | 8.5.2022 | Stove           | 299,00    |
-| 8.5.2022 | Ropes           | X         |
-| **Sum**  |                 | 2538,00   |
+| 8.5.2022 | Ropes           | 30,00     |
+| **Sum**  |                 | 2568,00   |
 
 
 ## Guest log
 
-| Date          | Guests / Night | Event       |
+| Date          | Guests         | Event       |
 |---------------|----------------|-------------|
+| 21.5.2022     | 2              | Test night  |
 | 23.6.2022     | 1              | Midsummer   |
 | 24.6.2022     | 1              | Midsummer   |
 | 25.6.2022     | 1              | Midsummer   |
@@ -26,8 +28,8 @@ I have always wanted a Savotta tent of my own. Is it justified to buy one for a 
 | 24.7.2022     | 4              | MCH         |
 | 25.7.2022     | 4              | MCH         |
 | 26.7.2022     | 4              | MCH         |
-| **Sum**       | 27             | 9 |
- | 2538,00 / Sum | 94e | 282e |
+| **Sum**       | 29             | 10          |
+| 2568,00 / Sum | 88e            | 257e        |
 
 * At par with a luxury family room at the hotel
 * No breakfast or room service
@@ -37,5 +39,3 @@ I have always wanted a Savotta tent of my own. Is it justified to buy one for a 
   * Stowe only dry
   * Re-apply shielding compounds after 2 year UV exposure
 
-## Conlusion
-Maybe
