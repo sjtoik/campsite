@@ -3,7 +3,9 @@
 I have always wanted a Savotta tent of my own.
 How much it has had costs in comparision to a night in a hotel?
 
-## The build 
+And of course you need some [power](./power.md).
+
+## Bill of materials
 
 | Date     | Item            | Price [€] |
 |----------|-----------------|-----------|
@@ -16,24 +18,20 @@ How much it has had costs in comparision to a night in a hotel?
 
 ## Guest log
 
-| Date          | Guests         | Event       |
-|---------------|----------------|-------------|
-| 21.5.2022     | 2              | Test night  |
-| 23.6.2022     | 1              | Midsummer   |
-| 24.6.2022     | 1              | Midsummer   |
-| 25.6.2022     | 1              | Midsummer   |
-| 21.7.2022     | 4              | MCH Buildup |
-| 22.7.2022     | 4              | MCH         |
-| 23.7.2022     | 4              | MCH         |
-| 24.7.2022     | 4              | MCH         |
-| 25.7.2022     | 4              | MCH         |
-| 26.7.2022     | 4              | MCH         |
-| **Sum**       | 29             | 10          |
-| 2568,00 / Sum | 88e            | 257e        |
+| Date          | Guests | Nights      |
+|---------------|--------|-------------|
+| 21.5.2022     | 2      | Test night  |
+| 21.7.2022     | 4      | MCH Buildup |
+| 22.7.2022     | 4      | MCH         |
+| 23.7.2022     | 4      | MCH         |
+| 24.7.2022     | 4      | MCH         |
+| 25.7.2022     | 4      | MCH         |
+| **Sum**       | 22     | 6           |
+| 2568,00 / Sum | 117e   | 428e        |
 
-* At par with a luxury family room at the hotel
+* A bit more than a luxury family room at the hotel
 * No breakfast or room service
-* Moist when wet
+* Moist when wet, but car heater helps
 * You have to clean your own mess
 * The tent fabric requires maintenance
   * Stowe only dry
