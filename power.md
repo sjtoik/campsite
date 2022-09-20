@@ -1,4 +1,25 @@
 # Campsite power setup
+![Discharge curve of a cell](./zg20-discharge-3c.jpg)
+
+Cell discharge curve from GWL Power product specs. Note how flat and linear the "power" band is.
+BMS needs to measure the voltage accurately as possible. 
+Overkill solar measures the cells within 0,0002 volts which is adequate for the purpose.
+
+After the voltage drops below 3 volts per cell, the battery is considered to be empty.
+BMS protects individual cells and disconnects the pack when a single cell reaches this limit.
+In the assembled pack, number 2 is the worst performing cell hitting the triggering the load disconnect conditions
+first. 
+
+![Loading the first cells](./kantosahko_cells_first_charge.png)
+
+Initial charge is done individually with each cell. Proposed loading current is 0.5C and the target voltage for the 
+first charge is 3,8V. Consecutive charges can be done with 1C and to 3,65V per cell.
+Initial charge takes around 2h for each cell, so be prepared to do this all day.
+
+![First phase done](./kantosahko_1st_phase.png)
+
+Instagram done! Pack is ready for first trials in summer cottage. The results were good, but the portability was not 
+there yet. The next phase is to build a strong case with fixed mounting for USB A and C chargers.
 
 ## Bill of materials
 
@@ -16,12 +37,12 @@
 | Misc tools                                                                                                                       | 64,69e            |
 | DC cabels                                                                                                                        | 20,40e            |
 | Brightsolar 12V/24V USB loader                                                                                                   | 19,90e            |
-| **Sum**                                                                                                                          | **1043,66e**      |
+| [Peli protector case](https://www.amazon.de/-/en/gp/product/B000M463F0/)                                                         | 144,42€           |
+| **Total**                                                                                                                        | **1188,08e**      |
 
 ## Upcoming possible additions
-| Item                                                                                                                        | Price    | 
-|-----------------------------------------------------------------------------------------------------------------------------|----------|
-| [MPPT controller](https://shop.gwl.eu/Victron-Energy/Victron-MPPT-controller-75V-15A-Bluetooth-12-24-V.html?cur=1)          | 112,14€  |
-| [Peli protector case](https://www.amazon.de/Peli-1200-Protector-Case-Black/dp/B000L45B18)                                   | 100€     |
-| [iCharger X8](https://www.stefansliposhop.de/en/chargers-power-supplys/junsi/junsi-icharger-x8-charger-1100w-8s::2053.html) | 179,90€  |
+| Item                                                                                                                        | Price   | Purpose                |
+|-----------------------------------------------------------------------------------------------------------------------------|---------|------------------------|
+| [MPPT controller](https://shop.gwl.eu/Victron-Energy/Victron-MPPT-controller-75V-15A-Bluetooth-12-24-V.html?cur=1)          | 112,14€ | You know, solar        |
+| [iCharger X8](https://www.stefansliposhop.de/en/chargers-power-supplys/junsi/junsi-icharger-x8-charger-1100w-8s::2053.html) | 179,90€ | Low flying helicopters |
 
