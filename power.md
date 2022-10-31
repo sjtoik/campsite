@@ -38,7 +38,14 @@ there yet. The next phase is to build a strong case with fixed mounting for USB 
 | DC cabels                                                                                                                        | 20,40e            |
 | Brightsolar 12V/24V USB loader                                                                                                   | 19,90e            |
 | [Peli protector case](https://www.amazon.de/-/en/gp/product/B000M463F0/)                                                         | 144,42€           |
-| **Total**                                                                                                                        | **1188,08e**      |
+| Aluminium T-bar, 1m                                                                                                              | 7,45€             |
+| Aluminium U-bar, 1m                                                                                                              | 6,25€             |
+| Aluminium Sheet, 1,5mm                                                                                                           | 18,15€            |
+| Rivet gun                                                                                                                        | 34,95€            |
+ | Rivets, assorted set                                                                                                             | 18,90€            |
+ | [USB-C PD charger, 24V](https://www.amazon.de/gp/product/B09YPZCN3V/)                                                            | 40€               |
+ | [Switches](https://www.amazon.de/gp/product/B07JNRH3NS/)                                                                         | 14€               |
+| **Total**                                                                                                                        | **1308,88e**      |
 
 ## Upcoming possible additions
 | Item                                                                                                                        | Price   | Purpose                |
