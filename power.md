@@ -36,20 +36,26 @@ there yet. The next phase is to build a strong case with fixed mounting for USB 
 | Misc high power connectors and insulation tape                                                                                   | 47,70e            |
 | Misc tools                                                                                                                       | 64,69e            |
 | DC cabels                                                                                                                        | 20,40e            |
-| Brightsolar 12V/24V USB loader                                                                                                   | 19,90e            |
+| Brightsolar 12V/24V USB-A charger and volts display                                                                              | 19,90e            |
 | [Peli protector case](https://www.amazon.de/-/en/gp/product/B000M463F0/)                                                         | 144,42€           |
 | Aluminium T-bar, 1m                                                                                                              | 7,45€             |
 | Aluminium U-bar, 1m                                                                                                              | 6,25€             |
 | Aluminium Sheet, 1,5mm                                                                                                           | 18,15€            |
 | Rivet gun                                                                                                                        | 34,95€            |
- | Rivets, assorted set                                                                                                             | 18,90€            |
- | [USB-C PD charger, 24V](https://www.amazon.de/gp/product/B09YPZCN3V/)                                                            | 40€               |
- | [Switches](https://www.amazon.de/gp/product/B07JNRH3NS/)                                                                         | 14€               |
+| Rivets, assorted set                                                                                                             | 18,90€            |
+| [USB-C PD charger, 24V](https://www.amazon.de/gp/product/B09YPZCN3V/)                                                            | 40€               |
+| [Switches](https://www.amazon.de/gp/product/B07JNRH3NS/)                                                                         | 14€               |
 | **Total**                                                                                                                        | **1308,88e**      |
+
+## Solar extension
+| Item                                                                                                                                              | Price      | Purpose                |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------|
+| [EVI 200 Fold *2](https://www.verkkokauppa.com/fi/product/864451/EVI-200-Fold-taitettava-aurinkopaneeli-200-W)                                    | 2* 175,00€ | Foldable 200W panel    |
+| [Victron SmartSolar MPPT 100V/20A](https://esconet.fi/shop/scc075010060r-victron-smartsolar-mppt-75v-10a-12-24-v-lataussaadin-bluetoothilla-7574) | 96,42€     | MPPT controller        |
+| Misc kables and connectors                                                                                                                        | 6,57€      | Wood-joy               |
 
 ## Upcoming possible additions
 | Item                                                                                                                        | Price   | Purpose                |
 |-----------------------------------------------------------------------------------------------------------------------------|---------|------------------------|
-| [MPPT controller](https://shop.gwl.eu/Victron-Energy/Victron-MPPT-controller-75V-15A-Bluetooth-12-24-V.html?cur=1)          | 112,14€ | You know, solar        |
 | [iCharger X8](https://www.stefansliposhop.de/en/chargers-power-supplys/junsi/junsi-icharger-x8-charger-1100w-8s::2053.html) | 179,90€ | Low flying helicopters |
 
