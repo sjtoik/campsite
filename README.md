@@ -11,16 +11,16 @@ Today, one can buy a complete package with less from a local store.
 
 ## Build timeline
 
-| Timespan            | Description                                                                         |
-|---------------------|-------------------------------------------------------------------------------------|
-| Winter of 2021-2022 | Planning, parts orders, first build                                                 |
-| Summer of 2022      | Everything in SmartStore box, charging from the grid with DC power supply           |
-| Winter of 2022-2023 | Rugged case for the battery and the accesories                                      |
-| Summer of 2023      | Testing the limits, still charging with DC power supply                             |
-| Winter of 2023-2024 | Planningn for solar extension                                                       |
-| Summer of 2024      | Woods and fetivals with panels and MPPT controller and accesories in SmartStore box |
-| Upcoming...         | Rugged case for the MPPT controller and tent LED lights                            |
-| Upcoming...         | Custom VE.Bus driver for the battery with Rust in RPI Pico?                         |
+| Timespan    | Description                                                                         |
+|-------------|-------------------------------------------------------------------------------------|
+| 2021 winter | Planning, parts orders, first build                                                 |
+| 2022 summer | Everything in SmartStore box, charging from the grid with DC power supply           |
+| 2022 winter | Rugged case for the battery and the accesories                                      |
+| 2023 summer | Testing the limits, still charging with DC power supply                             |
+| 2023 winter | Planningn for solar extension                                                       |
+| 2024 summer | Woods and fetivals with panels and MPPT controller and accesories in SmartStore box |
+| Upcoming... | Rugged case for the MPPT controller and tent LED lights                             |
+| Upcoming... | Custom VE.Bus driver for the battery with Rust in RPI Pico?                         |
 
 ## The Battery bank
 The LFP cells were not the biggest expense on the BOM.
